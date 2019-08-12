@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/QAX-A-Team/Papers">
-    <img src="./images/logo.png" alt="A-TEAM logo" width=72 height=72>
+    <img src="./images/logo.png" alt="A-TEAM logo" width=393 height=262>
   </a>
 
   <h3 align="center">Papers</h3>
