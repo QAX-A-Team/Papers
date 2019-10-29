@@ -15,4 +15,5 @@
 
 ## [2019年](articles/2019/)
 
-- &lt;paper month=08 day=12 title=&quot;[WebLogic安全研究报告](./papers/2019/weblogic.pdf)&quot;/&gt;
+- [WebLogic安全研究报告](./papers/2019/weblogic.pdf)
+- 译文：[入侵分析钻石模型](./papers/2019/入侵分析钻石模型.pdf)（原文：[The Diamond Model of Intrusion Analysis](./papers/2019/The%20Diamond%20Model%20of%20Intrusion%20Analysis.pdf)）
